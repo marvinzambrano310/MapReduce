@@ -1,0 +1,82 @@
+{
+	"pelicula1":{
+		"nombre":"Sin Limtes",
+		"director":"Neil Burger",
+		"genero":["Ciencia Ficcion", "Suspenso"],
+		"fechaestreno":"18-03-2011",
+		"protegonistas":["Bradley Cooper","Abbie Cornish","Robert De Niro"],
+		"duracion":"105 minutos"
+	},
+	"pelicula2":{
+		"nombre":"Al filo del Mañana",
+		"director":"Doug Liman",
+		"genero":["Ciencia Ficcion", "Accion"],
+		"fechaestreno":"06-06-2014",
+		"protegonistas":["Tom Cruise","Emily Blunt","Bill Paxton", "Brendan Gleeson"],
+		"duracion":"113 minutos"
+		},
+	"pelicula3":{
+		"nombre":"Transformers: El Ultimo Caballero",
+		"director":"Michael Bay",
+		"genero":["Ciencia Ficcion", "Accion","Aventura"],
+		"fechaestreno":"21-06-2017",
+		"protegonistas":["Mark Wahlberg","Josh Duhamel","Laura Haddock", "Anthony hopkings","Isabela Moner"],
+		"duracion":"154 minutos"
+		},
+	"pelicula4":{
+		"nombre":"Spider-Man: Lejos de Casa",
+		"director":"Jon Watts",
+		"genero":["Superheroes","Aventura","Comedia", "Accion"],
+		"fechaestreno":"02-07-2019",
+		"protegonistas":["Tom Holland","Samuel Jackson","Zendaya", "Conie Smulders"],
+		"duracion":"130 minutos"
+		},	
+	"pelicula5":{
+		"nombre":"El cuento de las Comadrejas",
+		"director":"Juan Jose Campanella",
+		"genero":["Comedia"],
+		"fechaestreno":"16-05-2019",
+		"protegonistas":["Graciela Borges","Orcar Martinez","Marcos Mundstock", "Adalberto Brandoni"],
+		"duracion":"119 minutos"
+		},
+	"pelicula6":{
+		"nombre":"Avengers Endgame",
+		"director":["Anthony Russo","Joe Russo"],
+		"genero":["Ciencia Ficcion", "Accion","Superheroes"],
+		"fechaestreno":"26-04-2019",
+		"protegonistas":["Robert Downey Jr.","Chris Evans","Mark Ruffalo","Chris Hemsworth","Scarlett Johansson","Jeremy Renner","Don Cheadle","Paul Rudd","Brie Larson"],
+		"duracion":"181 minutos"
+		},
+	"pelicula7":{
+		"nombre":"Spider-Man: De Regreso a Casa",
+		"director":"Jon Watts",
+		"genero":["Superheroes","Aventura","Comedia", "Accion"],
+		"fechaestreno":"28-06-2017",
+		"protegonistas":["Tom Holland","Michael Keaton","Robert Downey Jr", "Zendaya","Jon Favreau"],
+		"duracion":"133 minutos"
+		},
+	"pelicula8":{
+		"nombre":"Capitan America: Civil War",
+		"director":["Anthony Russo","Joe Russo"],
+		"genero":["Ciencia Ficcion", "Accion","Superheroes"],
+		"fechaestreno":"12-05-2016",
+		"protegonistas":["Robert Downey Jr.","Chris Evans","Sebastian Stan","Scarlett Johansson","Jeremy Renner","Don Cheadle","Chadwick Boseman","Paul Rudd"],
+		"duracion":"147 minutos"
+		},
+	"pelicula9":{
+		"nombre":"Rapidos y Furiosos 8",
+		"director":"F. Gary Gray",
+		"genero":["Crimen","Aventura","Suspenso", "Accion"],
+		"fechaestreno":"4-04-2017",
+		"protegonistas":["Vin Diesel","Dwayne Jhonson","Jason Statham", "Michelle Rodriguez","Charliza Theron","Tyrese Gibson"],
+		"duracion":"135 minutos"
+		},
+	"pelicula10":{
+		"nombre":"Jumanji el Siguiente Nivel",
+		"director":"Jake Kasdan",
+		"genero":["Ciencia Ficcion", "Comedia","Aventura"],
+		"fechaestreno":"13-12-2019",
+		"protegonistas":["Dwayne Jhonson","Jack Black","Kevin Hart","Karen Gillan","Nick Jonas","Awkwafina","Alex Wolff"],
+		"duracion":"122 minutos"
+		},
+}
